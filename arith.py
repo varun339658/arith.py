@@ -1,6 +1,6 @@
-n1=int(input())
-n2=int(input())
-print("Add is",n1+n2)
-print("sub is is",n1-n2)
-print("mul is",n1*n2)
-print("div is",n1/n2)
+n1 = int(input("Enter first number: "))
+n2 = int(input("Enter second number: "))
+
+print("Addition is:", n1 + n2)
+print("Subtraction is:", n1 - n2)
+print("Multiplication is:", n1 * n2)
